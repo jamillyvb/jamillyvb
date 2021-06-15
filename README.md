@@ -1,4 +1,4 @@
-# Hey
+# Hey 👋
 My name is Jamilly Vitorya 👩🇧🇷
 
 I'm a computer science student 💻
