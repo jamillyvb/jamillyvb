@@ -1,12 +1,1 @@
-# Hey 👋
-My name is Jamilly Vitorya 👩🇧🇷
-
-I'm a computer science student 💻
-
--   📍  From Tocantins
-
-Reach me out 👇
-
-[
-![Linkedin Badge](https://img.shields.io/badge/-Jamilly%20Vitorya-FF8000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilly-barbosa/)](https://www.linkedin.com/in/jamilly-barbosa/) [
-![Gmail Badge](https://img.shields.io/badge/-jamilly_barbosa@discente.ufg.br-FF8000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jamilly_barbosa@discente.ufg.br)](mailto:jamilly_barbosa@discente.ufg.br)
+[![Matrix Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=2000&pause=300&color=00FF00&width=600&lines=root%40github~%3A+Hi+%F0%9F%91%8B+I'm+Jamilly+Vitorya...;root%40github~%3A+I'm+a+computer+science+student...;root%40github~%3A+Enthusiast+of+competitive+events;root%40github~%3A+Olympics%2C+Hackathons...;root%40github~%3A+Nice+to+meet+you...)](https://git.io/typing-svg)
