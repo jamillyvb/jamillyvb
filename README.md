@@ -1,5 +1,5 @@
 <div align="center">
 
-[![Matrix Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=300&color=00FF00&width=600&lines=root%40github~%3A+Hi+%F0%9F%91%8B+I'm+Jamilly+Vitorya...;root%40github~%3A+I'm+a+computer+science+student...;root%40github~%3A+Enthusiast+of+competitive+events;root%40github~%3A+Olympics%2C+Hackathons...;root%40github~%3A+Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Matrix Typing](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=300&color=00FF00&width=400&lines=root%40github~%3A+Hi+%F0%9F%91%8B+I'm+Jamilly+Vitorya...;root%40github~%3A+I'm+a+computer+science+student...;root%40github~%3A+Enthusiast+of+competitive+events;root%40github~%3A+Olympics%2C+Hackathons...;root%40github~%3A+Nice+to+meet+you...)](https://git.io/typing-svg)
 
 </div>
